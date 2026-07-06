@@ -4,14 +4,12 @@ The book [Code the Classics, vol.2](https://magazine.raspberrypi.com/books/code-
 
 The original codes and the assets are provided at https://github.com/raspberrypipress/Code-the-Classics-Vol2
 
-We translated, the original Python codes to the [Go programming language](http://go.dev), using the [go-sdl3](https://github.com/Zyko0/go-sdl3). 
+We translated, the original Python codes to the [Go programming language](http://go.dev), using the [go-sdl3](https://github.com/Zyko0/go-sdl3) library. 
 
 We had two motivations:
 
 - to check how go-sdl3 compares to python-pygame, for educational purposes
 - to produce ready-to-run, self-contained binaries
-
-The Go ports are in independent repositories:
 
 The Go ports are in independent repositories:
 
