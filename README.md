@@ -43,3 +43,12 @@ Notes:
 * Compilation relies (for now) on a fork of [go-sdl3](https://github.com/Zyko0/go-sdl3): https://github.com/chrplr/go-sdl3-wasm/tree/wasm-render-fixes
 
 Christophe Pallier <christophe@pallier.org>  2026-07-06
+
+## License
+
+Copyright (C) 2026 Christophe Pallier.
+
+Licensed under the [Apache License, Version 2.0](LICENSE)
+(`SPDX-License-Identifier: Apache-2.0`). That licence covers the material in this
+repository only — the game design and original assets of *Code the Classics*
+remain © their respective authors / Raspberry Pi Press.
